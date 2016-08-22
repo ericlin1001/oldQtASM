@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/bad.bmp</file>
+        <file>icons/heart.bmp</file>
+        <file>icons/trash.bmp</file>
+        <file>icons/bad.svg</file>
+        <file>icons/heart.svg</file>
+        <file>icons/trash.svg</file>
+    </qresource>
+</RCC>

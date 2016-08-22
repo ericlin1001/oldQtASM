@@ -1,0 +1,12 @@
+#ifndef CLIENTDLL_GLOBAL_H
+#define CLIENTDLL_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(CLIENTDLL_LIBRARY)
+#  define CLIENTDLLSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define CLIENTDLLSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // CLIENTDLL_GLOBAL_H

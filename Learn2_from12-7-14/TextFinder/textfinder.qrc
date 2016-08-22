@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>input.txt</file>
+        <file>textfinder.ui</file>
+    </qresource>
+</RCC>

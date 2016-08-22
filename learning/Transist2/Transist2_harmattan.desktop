@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Transist2
+Exec=/usr/bin/single-instance /opt/Transist2/bin/Transist2
+Icon=/usr/share/icons/hicolor/80x80/apps/Transist280.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
